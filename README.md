@@ -1,2 +1,6 @@
 # hello-world
-Hello world repository
+Hello world,
+
+My name is Jake :)
+
+Bye
